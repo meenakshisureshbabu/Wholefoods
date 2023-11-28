@@ -1,0 +1,270 @@
+.wholefood-img{
+    width: 200px;
+    height: 100px;
+}
+
+.header-div{
+    position: sticky;
+    top:0;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(22, 60, 22, 0.94);
+    width: 100%;
+    z-index: 9999;
+}
+.search-icon{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 2px;
+}
+
+.map-icon, .user-icon, .cart-icon{
+    width: 25px;
+    height: 25px;
+}
+
+.user-icon{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.map-icon{
+    padding-top: 35px;
+}
+
+.search-text{
+    width: 500px;
+    border-radius: 10px;
+}
+.search-div{
+
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.cart-div{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    width: 100px;
+    padding-top: 20px;
+}
+
+.findstore-div{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: white;
+}
+
+.findstore-d{
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;
+    justify-content: space-evenly;
+}
+
+.wfmdiv{
+    height: 30px;
+    margin-top: 10px;
+}
+
+.fasdiv{
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.userlogin-div{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 25px;
+}
+
+.cart-div{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.menu-div{
+    display: flex;
+    top:100px;
+    gap: 5em;
+}
+
+.menu{
+    color: rgba(22, 60, 22, 0.94);
+    height: 50px;
+    padding-top: 10px;
+}
+
+.pizza-img-div{
+    height: 700px;
+    position: absolute;
+    width: 100%;
+}
+
+
+.pizza-img{
+    width: 100%;
+    height: 100%;
+}
+
+.body-div{
+    position: relative;
+    height: 800px;
+    top:50px;
+}
+.thirdbody-div{
+    position: relative;
+    height: 800px;
+    top:100px;
+    width: 1400px;
+    padding-left: 3em;
+}
+.wholebody-div{
+    height: auto;
+}
+
+.grocerypickupdiv{
+    margin-left: 1em;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ordercateringdiv{
+    margin-left: 1em;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.shippedtoyoudiv{
+    margin-left: 1em;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.weeklysalesdiv{
+    margin-left: 1em;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.second-body-div{
+    position: relative;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.side-div{
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    width: 40%;
+    height: auto;
+    padding-left: 5em;
+    margin-top: 5em;
+    text-align: left;
+}
+
+.thirdside-div{
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    width: 40%;
+    height: auto;
+    padding-left: 5em;
+    margin-top: 5em;
+    text-align: left;
+}
+
+.grocerypickuptext{
+    width: 100px;
+    height: 100px;
+    margin-top: 5em;
+}
+
+.ordercateringtext{
+    width: 100px;
+    height: 100px;
+    margin-top: 5em;
+}
+
+.shippedtoyoutext{
+    width: 100px;
+    height: 100px;
+    margin-top: 5em;
+}
+
+.weeklysalestext{
+    width: 100px;
+    height: 100px;
+    margin-top: 5em;
+}
+
+
+.seeallsales-button{
+    background-color: rgba(22, 60, 22, 0.94);
+    color: white;
+    float: left;
+    height: 50px;
+}
+
+.secondbody{
+    height: 500px;
+}
+
+.footer-div{
+    background-color:rgba(22, 60, 22, 0.94);
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5em;
+}
+
+li{
+    color: white;
+    list-style-type: none;
+    text-align: left;
+}
+
+.needhelpdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+
+.facebookicon, .twittericon, .instagramicon, .pinteresticon, .youtubeicon{
+    height: 20px;
+    width: 20px;
+}
+
+.connectdiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.signupbutton{
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgba(22, 60, 22, 0.94);
+    color: white;
+    border: solid white;
+}
